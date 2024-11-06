@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Celldetective is a bioimage analysis software to perform single-cell analysis for two interacting populations on multimodal time lapse microscopy images.
+
 <!--
 
 **Here are some ideas to get you started:**
